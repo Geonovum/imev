@@ -11,4 +11,4 @@ Maak daarna een nieuwe release aan via: https://github.com/Geonovum/imev/release
 
 en dan wordt deze als het goed is automatisch geupload naar:  
 
-https://register.geostandaarden.nl/informatiemodel/imev/)https://register.geostandaarden.nl/informatiemodel/imev/
+https://register.geostandaarden.nl/informatiemodel/imev/
