@@ -8,7 +8,4 @@ De werkversie van het bijbehorende respec document staat op https://geonovum.git
 Voor een nieuwe release van het EAP bestand kan deze geupload worden in het mapje: https://github.com/Geonovum/imev/tree/main/informatiemodel  
 
 Maak daarna een nieuwe release aan via: https://github.com/Geonovum/imev/releases 
-
-en dan wordt deze als het goed is automatisch geupload naar:  
-
-https://register.geostandaarden.nl/informatiemodel/imev/
+en dan wordt deze als het goed is automatisch geupload naar: https://register.geostandaarden.nl/informatiemodel/imev/
