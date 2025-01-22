@@ -2,7 +2,7 @@
   "title": "IMEV 3.0.0 JSON-schema 1.0",
   "description": "JSON-schema op basis van IMEV versie 3.0.0 / 20241021 by Imvertor Nightly-build.19",
   "$comment":
-    "Verbeteringen van RC3 t.o.v. RC1 en RC2 zijn te vinden via : https://github.com/Geonovum/imev-werkomgeving/tree/main/schemas/IMEV3.0/readme.md",
+    "Dit schema is inhoudelijk hetzelfde als de release candidate RC3. Verbeteringen van RC3 t.o.v. RC1 en RC2 zijn te vinden via : https://github.com/Geonovum/imev-werkomgeving/tree/main/schemas/IMEV3.0/readme.md",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$reqs": [
     "/req/geojson",
