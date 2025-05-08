@@ -6,6 +6,7 @@
         "schema IMEV3.0.0_schema.json"
     ],
     "entityType": "BuisleidingStelsel",
+	"id": "NL.IMEV.GASU.GEO209058292",
     "identificatie": {
         "namespace": "NL.IMEV",
         "lokaalID": "GASU.GEO209058292",
@@ -33,6 +34,7 @@
     "voertUit": [
         {
             "entityType": "Buisleiding",
+			"id": "NL.IMEV.GASU.GEO209058293",
             "identificatie": {
                 "namespace": "NL.IMEV",
                 "lokaalID": "GASU.GEO209058293",
@@ -63,6 +65,7 @@
                 {
                     "entityType": "BuisleidingReferentie",
                     "omschrijving": "string",
+					"id": "NL.IMEV.GASU.GEO209058294",
                     "identificatie": {
                         "namespace": "NL.IMEV",
                         "lokaalID": "GASU.GEO209058294",
@@ -102,6 +105,7 @@
                     "resulteertIn": [
                         {
                             "entityType": "BrandAandachtsgebied",
+							"id": "NL.IMEV.GASU.GEO209058295",
                             "identificatie": {
                                 "namespace": "NL.IMEV",
                                 "lokaalID": "GASU.GEO209058295",

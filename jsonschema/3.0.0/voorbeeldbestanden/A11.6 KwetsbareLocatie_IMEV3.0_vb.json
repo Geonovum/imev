@@ -6,6 +6,7 @@
         "schema IMEV3.0.0_schema.json"
     ],
     "entityType": "KwetsbareLocatie",
+	"id": "NL.IMEV.gm1979.UTH02D2662",
     "identificatie": {
         "namespace": "NL.IMEV",
         "lokaalID": "gm1979.UTH02D2662",

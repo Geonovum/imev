@@ -6,6 +6,7 @@
         "schema IMEV3.0.0_schema.json"
     ],
         "entityType": "LocatieActiviteit",
+		"id": "NL.IMEV.RUDLN.5419d7821c3c",
         "identificatie": {
             "namespace": "NL.IMEV",
             "lokaalID": "RUDLN.5419d7821c3c",
@@ -80,6 +81,7 @@
         "voertUit": [
             {
                 "entityType": "SevesoInrichting",
+				"id": "NL.IMEV.RUDLN.5419d7821c3d",
                 "identificatie": {
                     "namespace": "NL.IMEV",
                     "lokaalID": "RUDLN.5419d7821c3d",
@@ -108,6 +110,7 @@
                     {
                         "entityType": "SevesoReferentie",
                         "omschrijving": "string",
+						"id": "NL.IMEV.RUDLN.5419d7821c3e",
                         "identificatie": {
                             "namespace": "NL.IMEV",
                             "lokaalID": "RUDLN.5419d7821c3e",
@@ -132,6 +135,7 @@
                         "resulteertIn": [
                             {
                                 "entityType": "BrandAandachtsgebied",
+								"id": "NL.IMEV.RUDLN.5419d7821c3f",
                                 "identificatie": {
                                     "namespace": "NL.IMEV",
                                     "lokaalID": "RUDLN.5419d7821c3f",
