@@ -1,12 +1,13 @@
 {
     "comment": [
         "Voorbeeld van aanleverbestand Basisnet",
-        "datum: 2024-12-03",
-        "versie IMEV: 3.0.0",
-        "schema IMEV3.0.0_schema.json",
+        "datum: 2025-05-08",
+        "versie IMEV: 3.0.1",
+        "schema IMEV3.0.1_schema.json",
         "Kies voor type uit 'WaterVervoer', 'WegVervoer' of 'SpoorVervoer'"
     ],
     "entityType": "LocatieBasisnet",
+	"id": "NL.IMEV.RWS.BasisnetElement_CRD_001",
     "identificatie": {
         "namespace": "NL.IMEV",
         "lokaalID": "RWS.BasisnetElement_CRD_001",
@@ -51,6 +52,7 @@
     "voertUit": [
         {
             "entityType": "Basisnet",
+			"id": "NL.IMEV.RWS.BasisnetElement_CRD_002",
             "identificatie": {
                 "namespace": "NL.IMEV",
                 "lokaalID": "RWS.BasisnetElement_CRD_002",
@@ -75,6 +77,7 @@
             "heeft": [
                 {
                     "entityType": "WaterVervoer",
+					"id": "NL.IMEV.RWS.BasisnetElement_CRD_003",
                     "identificatie": {
                         "namespace": "NL.IMEV",
                         "lokaalID": "RWS.BasisnetElement_CRD_003",
@@ -120,6 +123,7 @@
                     "resulteertIn": [
                         {
                             "entityType": "BrandAandachtsgebied",
+							"id": "NL.IMEV.RWS.BasisnetElement_CRD_004",
                             "identificatie": {
                                 "namespace": "NL.IMEV",
                                 "lokaalID": "RWS.BasisnetElement_CRD_004",

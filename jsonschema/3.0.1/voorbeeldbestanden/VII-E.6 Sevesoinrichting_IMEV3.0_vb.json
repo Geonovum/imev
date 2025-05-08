@@ -1,11 +1,12 @@
 {
     "comment": [
         "Voorbeeld van aanleverbestand Sevesoinrichting",
-        "datum: 2024-12-02",
-        "versie IMEV: 3.0.0",
-        "schema IMEV3.0.0_schema.json"
+        "datum: 2025-05-08",
+        "versie IMEV: 3.0.1",
+        "schema IMEV3.0.1_schema.json"
     ],
         "entityType": "LocatieActiviteit",
+		"id": "NL.IMEV.RUDLN.5419d7821c3c",
         "identificatie": {
             "namespace": "NL.IMEV",
             "lokaalID": "RUDLN.5419d7821c3c",
@@ -80,6 +81,7 @@
         "voertUit": [
             {
                 "entityType": "SevesoInrichting",
+				"id": "NL.IMEV.RUDLN.5419d7821c3d",
                 "identificatie": {
                     "namespace": "NL.IMEV",
                     "lokaalID": "RUDLN.5419d7821c3d",
@@ -108,6 +110,7 @@
                     {
                         "entityType": "SevesoReferentie",
                         "omschrijving": "string",
+						"id": "NL.IMEV.RUDLN.5419d7821c3e",
                         "identificatie": {
                             "namespace": "NL.IMEV",
                             "lokaalID": "RUDLN.5419d7821c3e",
@@ -132,6 +135,7 @@
                         "resulteertIn": [
                             {
                                 "entityType": "BrandAandachtsgebied",
+								"id": "NL.IMEV.RUDLN.5419d7821c3f",
                                 "identificatie": {
                                     "namespace": "NL.IMEV",
                                     "lokaalID": "RUDLN.5419d7821c3f",
