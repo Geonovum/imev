@@ -1,11 +1,11 @@
 [
   {
-    "uri": "http://definities.geostandaarden.nl/imev/id/begrippenkader/Begrippenkader_IMEV_Kern",
+    "uri": "http://definities.geostandaarden.nl/id/begrippenkader/IMEV",
     "@type": "skos:ConceptScheme",
-    "naam": "",
+    "naam": "IMEV",
     "uitleg": "",
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrippenkader/Begrippenkader_IMEV_Kern",
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrippenkader/Begrippenkader_IMEV",
       "startdatumGeldigheid": "2026-01-12"
     }
   },
