@@ -718,6 +718,7 @@
     "naam": "brandaandachtsgebied",
     "term": "brandaandachtsgebied",
     "definitie": "Een brandaandachtsgebied is de locatie begrensd door de afstand, waar als gevolg van een ongewoon voorval dat leidt tot een plasbrand of een fakkelbrand, de warmtestraling ten hoogste 10 kW/m2 is.",
+    "uitleg": "In een brandaandachtsgebied is er kans op letsel door brand door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/brandaandachtsgebied",
       "startdatumGeldigheid": "2026-01-12"
@@ -750,6 +751,7 @@
     "naam": "complex met opslag van ontplofbare stoffen",
     "term": "complex met opslag van ontplofbare stoffen",
     "definitie": "Een complex met opslag van civiele explosieven met vastgestelde explosieaandachtsgebieden.",
+    "uitleg": "In een explosieaandachtsgebied is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/opslagontplofbaarcomplexen",
       "startdatumGeldigheid": "2026-01-12"
@@ -766,6 +768,7 @@
     "naam": "civiel explosieaandachtsgebied",
     "term": "civiel explosieaandachtsgebied",
     "definitie": "Civiel explosie aandachtsgebied in het kader van externe veiligheid.",
+    "uitleg": "In een civiel explosieraandachtsgebied is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/civielexplosieaandachtsgebied",
       "startdatumGeldigheid": "2026-01-12"
@@ -1077,6 +1080,7 @@
     "naam": "explosie aandachtsgebied vuurwerk",
     "term": "explosie aandachtsgebied vuurwerk",
     "definitie": "Explosieaandachtsgebied vuurwerk voor opslag van categorie F1, F2, F3, F4 of pyrotechnische artikelen voor theatergebruik van categorie T1 of T2.",
+    "uitleg": "In een explosie aandachtsgebied vuurwerk is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/explosieaandachtsgebiedvuurwerk",
       "startdatumGeldigheid": "2026-01-12"
@@ -1176,6 +1180,7 @@
     "naam": "militair explosie aandachtsgebied",
     "term": "militair explosie aandachtsgebied",
     "definitie": "Aandachtsgebied in het kader van externe veiligheid.",
+    "uitleg": "In een militair explosie aandachtsgebied is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/militairexplosieaandachtsgebied",
       "startdatumGeldigheid": "2026-01-12"
@@ -1321,6 +1326,8 @@
     "naam": "gifwolkaandachtsgebied",
     "term": "gifwolkaandachtsgebied",
     "definitie": "Een gifwolkaandachtsgebied is de locatie begrensd door de afstand, waar als gevolg van een ongewoon voorval dat leidt tot een gifwolk, personen in een gebouw overlijden door blootstelling aan ten hoogste de bij ministeriÙle regeling vastgestelde concentratie van een gevaarlijke stof gedurende een daarbij aangegeven periode.",
+    "uitleg": "In een gifwolkaandachtsgebied is er kans op letsel door een gifwolk door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor het gebruik van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente."
+    ,
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20260112000000/begrip/gifwolkaandachtsgebied",
       "startdatumGeldigheid": "2026-01-12"
