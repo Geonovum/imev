@@ -1,0 +1,75 @@
+{
+    "comment": [
+        "Voorbeeld van aanleverbestand KwetsbareLocatie",
+        "datum: 2026-31-08",
+        "versie IMEV: 4.0.0",
+        "schema IMEV4.0.0_schema.json"
+    ],
+    "entityType": "KwetsbareLocatie",
+    "id": "NL.IMEV.gm0307.AMF00C04644",
+    "identificatie": {
+        "namespace": "NL.IMEV",
+        "lokaalID": "gm0307.AMF00C04644",
+        "versie": ""
+    },
+    "bronobjectID": "AMF00C04644",
+    "bronhoudercode": "AMERSF",
+    "bronhoudercodeOverheid": "gm0307",
+    "bronhouder": "Gemeente Amersfoort",
+    "documentInfo": {
+        "link": "http://www.geonovum.nl",
+        "naam": "Test1001"
+    },
+    "beginGeldigheid": "2018-11-27T00:00:00Z",
+
+    "categorieKwetsbaarheid": "kwetsbaar",
+    "gebruiksdoeleindenDetail": "standaardenfabriek",
+    "geometrie": {
+        "type": "Polygon",
+        "coordinates":[
+            [
+                    [154027.13,462673],
+                    [154037.067,462685.782],
+                    [154037.865,462687.498],
+                    [154038.599,462689.995],
+                    [154038.923,462692.494],
+                    [154039.194,462695.708],
+                    [154038.904,462702.324],
+                    [154038.691,462710.608],
+                    [154038.42,462713.232],
+                    [154037.301,462715.556],
+                    [154034.262,462714.409],
+                    [154024.166,462711.658],
+                    [154020.644,462710.982],
+                    [154019.947,462712.776],
+                    [154018.215,462712.319],
+                    [154015.41,462711.813],
+                    [154010.815,462711.088],
+                    [154004.791,462710.438],
+                    [154000,462710.057],
+                    [153985.38,462709.63],
+                    [153964.09,462709.25],
+                    [153958.94,462709.56],
+                    [153955.602,462709.492],
+                    [153943.323,462709.275],
+                    [153943.588,462683.086],
+                    [153943.69,462675.67],
+                    [153943.915,462659.354],
+                    [153943.014,462656.723],
+                    [153962.247,462657.209],
+                    [153961.634,462655.318],
+                    [154000,462656.089],
+                    [154013.914,462656.344],
+                    [154025.585,462671.053],
+                    [154027.13,462673]
+                ]
+        ]
+    },
+    "geometrieMetagegevens": {
+        "bronregistratie": "BRK",
+        "idInBronregistratie": "25450464470000",
+        "itemLink": "https://api.pdok.nl/kadaster/brk-kadastrale-kaart/ogc/v1/collections/perceel/items/f91a041a-4e1b-526d-be42-e05afedd6c1d"
+    },
+    "populatie": 100,
+    "kadastraleAanduiding": ["AMF00C04644G0000"]
+}
