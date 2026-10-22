@@ -1,7 +1,7 @@
 {
-  "title": "IMEV 4.0.0 JSON-schema RC1",
-  "description": "JSON-schema op basis van IMEV versie 4.0.0",
-  "$comment": "Dit schema is gemaakt met Imvertor 4.4.0 variant plainjson en bijgewerkt zoals versie 3.0.2 ook aangepast is (zie ook changelog Bijlage A van het IMEV4.0.0)",
+  "title": "IMEV 4.0.0 JSON-schema RC2",
+  "description": "JSON-schema op basis van IMEV versie 4.0.0 versie ter vaststelling van 19-10-2026",
+  "$comment": "Dit schema is gemaakt met Imvertor 4.4.0 variant plainjson en bijgewerkt op dezelfde manier als de vorige versie (zie ook changelog Bijlage A van het IMEV4.0.0)",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$reqs": [
     "/req/plain",
