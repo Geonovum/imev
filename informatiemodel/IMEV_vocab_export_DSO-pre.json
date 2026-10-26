@@ -5,8 +5,8 @@
 	"naam": "Begrippenkader IMEV",
     "uitleg": "Het begrippenkader externe veiligheid bevat de begrippen die voortgekomen zijn uit het opstellen van het informatiemodel externe veiligheid (IMEV)",
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrippenkader/IMEV",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrippenkader/IMEV",
+      "startdatumGeldigheid": "2026-10-20"
     }
   },
   {
@@ -18,9 +18,12 @@
     "codes": [
       "Aandachtsgebied"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#Hoofdstuk5"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/aandachtsgebied",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/aandachtsgebied",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/brandaandachtsgebied",
@@ -43,9 +46,12 @@
     "codes": [
       "AftappuntOpslagtank"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/aftappuntopslagtank",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/aftappuntopslagtank",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -64,9 +70,12 @@
     "codes": [
       "AmmoniakKoelinstallatie_TeBerekenenAfstand"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/ammoniakkoelinstallatie_teberekenenafstand",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/ammoniakkoelinstallatie_teberekenenafstand",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -85,9 +94,12 @@
     "codes": [
       "AmmoniakKoelinstallatie_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/ammoniakkoelinstallatie_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/ammoniakkoelinstallatie_vasteafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -101,14 +113,17 @@
     "term": "ander insluitsysteem",
     "definitie": "Andere systemen om één of meerdere stoffen te omsluiten.",
     "toelichtingen": [
-      "Elke andere milieubelastende activiteit conform Bkl bijlage VII onder E onder 12. "
+      "Elke milieubelastende activiteit conform Bkl bijlage VII onder E onder 12. "
     ],
     "codes": [
       "AnderInsluitsysteem"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/anderinsluitsysteem",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/anderinsluitsysteem",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -127,9 +142,12 @@
     "codes": [
       "BadGiftig"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/badgiftig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/badgiftig",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -149,8 +167,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/balactiviteit",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/balactiviteit",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -166,9 +184,12 @@
     "codes": [
       "Basisnet"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0007606/#HoofdstukI_Paragraaf1_Artikel1"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/basisnet",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/basisnet",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -187,9 +208,12 @@
     "codes": [
       "BehandelenRegelenMetenAardgas_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/behandelenregelenmetenaardgas_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/behandelenregelenmetenaardgas_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -205,9 +229,12 @@
     "codes": [
       "BehandelenRegelenMetenAardgas_VasteAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041330"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/behandelenregelenmetenaardgas_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/behandelenregelenmetenaardgas_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -223,9 +250,12 @@
     "codes": [
       "Bewaarplaats"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/bewaarplaats",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/bewaarplaats",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -241,9 +271,12 @@
     "codes": [
       "Bewerkingsruimte"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/bewerkingsruimte",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/bewerkingsruimte",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -259,9 +292,12 @@
     "codes": [
       "BKLActiviteit"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/bklactiviteit",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/bklactiviteit",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/ammoniakkoelinstallatie_teberekenenafstand",
@@ -300,7 +336,6 @@
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagtankpropaanpropeen_vasteafstandgeenvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagtankpropaanpropeen_vasteafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagtankvloeistof",
-      "http://definities.geostandaarden.nl/imev/id/begrip/opslagtransportbedrijfwaterstof_vasteafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagverpakt_teberekenenafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagverpakt_vasteafstandgeenvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/opslagverpakt_vasteafstandvergunningplicht",
@@ -311,15 +346,14 @@
       "http://definities.geostandaarden.nl/imev/id/begrip/opstellenvoertuigen",
       "http://definities.geostandaarden.nl/imev/id/begrip/opstellenvoertuigen_teberekenenafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/sevesoinrichting",
+      "http://definities.geostandaarden.nl/imev/id/begrip/tanken%25C2%25ADvoertuigen%25C2%25ADwerktuigen%25C2%25ADwaterstof_vaste%25C2%25ADafstand%25C2%25ADvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankencng",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankengrootschaligvaartuig",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankenkleinschaligvaartuig",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankenlngvaartuigen_berekendeafstandvergunningplicht",
-      "http://definities.geostandaarden.nl/imev/id/begrip/tankenlngvoertuigwerktuig",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankenlpg",
+      "http://definities.geostandaarden.nl/imev/id/begrip/tankenstationwaterstofvoertuigen_vasteafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankenvoertuigenenwerktuigenlng_teberekenenafstandvergunningsplicht",
-      "http://definities.geostandaarden.nl/imev/id/begrip/tankenwaterstofvoertuigen_vasteafstandvergunningplicht",
-      "http://definities.geostandaarden.nl/imev/id/begrip/tankenwaterstofvoertuigwerktuig",
       "http://definities.geostandaarden.nl/imev/id/begrip/tankstationlngvoertuigen_teberekenenafstandvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/windturbine_teberekenenafstandgeenvergunningplicht",
       "http://definities.geostandaarden.nl/imev/id/begrip/windturbine_teberekenenafstandvergunningplicht"
@@ -342,9 +376,12 @@
     "codes": [
       "BrandAandachtsgebied"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#Hoofdstuk5"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/brandaandachtsgebied",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/brandaandachtsgebied",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied"
@@ -360,9 +397,12 @@
     "codes": [
       "BufferBewaarplaats"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/bufferbewaarplaats",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/bufferbewaarplaats",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -378,9 +418,12 @@
     "codes": [
       "Buisleiding"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/buisleiding",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/buisleiding",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -393,9 +436,12 @@
     "codes": [
       "BuisleidingReferentie"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/buisleidingreferentie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/buisleidingreferentie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -411,9 +457,12 @@
     "codes": [
       "BuisleidingStelsel"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/buisleidingstelsel",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/buisleidingstelsel",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/locatieevactiviteit"
@@ -423,16 +472,19 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/civielexplosieaandachtsgebied",
     "@type": "skos:Concept",
-    "naam": "civiel explosieaandachtsgebied",
-    "term": "civiel explosieaandachtsgebied",
+    "naam": "XXciviel explosieaandachtsgebied",
+    "term": "XXciviel explosieaandachtsgebied",
     "definitie": "Civiel explosie aandachtsgebied in het kader van externe veiligheid.",
     "uitleg": "In een civiel explosie aandachtsgebied is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
     "codes": [
       "CivielExplosieAandachtsgebied"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#Hoofdstuk5"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/civielexplosieaandachtsgebied",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/civielexplosieaandachtsgebied",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied"
@@ -451,9 +503,12 @@
     "codes": [
       "Emplacement"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/emplacement",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/emplacement",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -473,8 +528,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/evactiviteit",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/evactiviteit",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit",
@@ -498,8 +553,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/evcontour",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/evcontour",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied",
@@ -510,18 +565,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/exploiterenenergieopslagsysteem_teberekenenafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xmeldingplichtige EOS te berekenen afstand",
-    "term": "Xmeldingplichtige EOS te berekenen afstand",
-    "definitie": "Het exploiteren van een energieopslagsysteem met vloeibare of polymere lithium houdende batterijcellen, bedoeld in artikel 4.1003d van het Besluit activiteiten leefomgeving, voor zover in tabel 4.1003h van dat besluit is aangegeven dat de afstand voor het plaatsgebonden risico wordt berekend of waarbij toepassing wordt gegeven aan artikel 4.1003h, derde lid.",
+    "naam": "meldingplichtige EOS te berekenen afstand",
+    "term": "meldingplichtige EOS te berekenen afstand",
+    "definitie": "Het exploiteren van een energieopslagsysteem met vloeibare of polymere lithium houdende batterijcellen, bedoeld in artikel 4.1052b van het Besluit activiteiten leefomgeving, als de activiteit niet als vergunningplichtig is aangewezen in artikel 3.35b van dat besluit voor zover op basis van artikel 4.1052f eerste lid een te berekenen afstand volgt of waarbij toepassing wordt gegeven aan artikel 4.1052f derde lid.",
     "toelichtingen": [
       "Het meldingplichtig exploiteren van een energieopslagsysteem met een te berekenen afstand, conform bijlage VII onder D onder 3."
     ],
     "codes": [
       "ExploiterenEnergieOpslagSysteem_TeBerekenenAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/exploiterenenergieopslagsysteem_teberekenenafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/exploiterenenergieopslagsysteem_teberekenenafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -531,18 +589,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/exploiterenenergieopslagsysteem_teberekenenafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xvergunningplichtige EOS te berekenen afstand",
-    "term": "Xvergunningplichtige EOS te berekenen afstand",
-    "definitie": "Het exploiteren van een energieopslagsysteem voor elektrische energie, bedoeld in artikel 3.26b van het Besluit activiteiten leefomgeving.",
+    "naam": "vergunningplichtige EOS te berekenen afstand",
+    "term": "vergunningplichtige EOS te berekenen afstand",
+    "definitie": "Het exploiteren van een energieopslagsysteem voor elektrische energie, bedoeld in artikel 3.35b van het Besluit activiteiten leefomgeving.",
     "toelichtingen": [
       "Het vergunningplichtig exploiteren van een energieopslagsysteem met een te berekenen afstand, conform bijlage VII onder E onder 14."
     ],
     "codes": [
       "ExploiterenEnergieOpslagSysteem_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/exploiterenenergieopslagsysteem_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/exploiterenenergieopslagsysteem_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -552,18 +613,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/exploiterenenergieopslagsysteem_vasteafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xmeldingplichtige EOS vaste afstand",
-    "term": "Xmeldingplichtige EOS vaste afstand",
-    "definitie": "Het exploiteren van een energieopslagsysteem voor elektrische energie met vloeibare of polymere lithium houdende batterijcellen, bedoeld in artikel 4.1003d van het Besluit activiteiten leefomgeving.",
+    "naam": "meldingplichtige EOS vaste afstand",
+    "term": "meldingplichtige EOS vaste afstand",
+    "definitie": "Het exploiteren van een energieopslagsysteem met vloeibare of polymere lithium houdende batterijcellen, bedoeld in artikel 4.1052b van het Besluit activiteiten leefomgeving, als de activiteit niet als vergunningplichtig is aangewezen in artikel 3.35b van dat besluit.",
     "toelichtingen": [
       "Het meldingplichtig exploiteren van een energieopslagsysteem met een vaste afstand, conform bijlage VII onder A onder 13."
     ],
     "codes": [
       "ExploiterenEnergieOpslagSysteem_VasteAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/exploiterenenergieopslagsysteem_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/exploiterenenergieopslagsysteem_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -575,14 +639,20 @@
     "@type": "skos:Concept",
     "naam": "explosie aandachtsgebied vuurwerk",
     "term": "explosie aandachtsgebied vuurwerk",
-    "definitie": "Explosieaandachtsgebied vuurwerk voor opslag van categorie F1, F2, F3, F4 of pyrotechnische artikelen voor theatergebruik van categorie T1 of T2.",
+    "definitie": "Explosieaandachtsgebied vuurwerk of effectgebied voor opslag van categorie F1, F2, F3, F4 of pyrotechnische artikelen voor theatergebruik van categorie T1 of T2.",
     "uitleg": "In een explosie aandachtsgebied vuurwerk is er kans op letsel door een explosie door een incident bij een milieubelastende activiteit in de omgeving. Er kunnen beperkingen gelden voor de functie van het gebied volgens het omgevingsplan. Voor meer informatie kunt u terecht bij uw gemeente.",
+    "toelichtingen": [
+      "In het geval van artikel 3.31 lid 1 Bkl, zoals bedoeld in bijlage VIII is dit een ExplosieAandachtsgebiedVuurwerk. In het geval van artikel 3.30 Bkl, bij minder dan 10.000 kg vuurwerk, is dit een effectgebied zoals bedoeld in artikel 4.1042 Bal."
+    ],
     "codes": [
       "ExplosieAandachtsgebiedVuurwerk"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVIII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/explosieaandachtsgebiedvuurwerk",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/explosieaandachtsgebiedvuurwerk",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied"
@@ -602,8 +672,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/externeveiligheidsobject",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/externeveiligheidsobject",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -620,8 +690,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/gebouwoflocatie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/gebouwoflocatie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/kwetsbaargebouw",
@@ -643,8 +713,8 @@
       "GifwolkAandachtsgebied"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/gifwolkaandachtsgebied",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/gifwolkaandachtsgebied",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied"
@@ -654,15 +724,18 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/grootschaligmestverwerking_vasteafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xgrootschalige mestverwerking",
-    "term": "Xgrootschalige mestverwerking",
+    "naam": "grootschalige mestverwerking",
+    "term": "grootschalige mestverwerking",
     "definitie": "Het exploiteren van een andere milieubelastende installatie voor het behandelen van meer dan 25.000 m3 dierlijke meststoffen per jaar op een andere locatie dan de locatie van productie, bedoeld in artikel 3.90, eerste lid, van het Besluit activiteiten leefomgeving.",
     "codes": [
       "GrootschaligMestverwerking_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/grootschaligmestverwerking_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/grootschaligmestverwerking_vasteafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -681,9 +754,12 @@
     "codes": [
       "KernenergieInrichting"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/kernenergieinrichting",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/kernenergieinrichting",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -699,9 +775,12 @@
     "codes": [
       "KwetsbaarGebouw"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVI"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/kwetsbaargebouw",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/kwetsbaargebouw",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/gebouwoflocatie"
@@ -717,9 +796,12 @@
     "codes": [
       "KwetsbareLocatie"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVI"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/kwetsbarelocatie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/kwetsbarelocatie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/gebouwoflocatie"
@@ -735,9 +817,12 @@
     "codes": [
       "Leiding"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/leiding",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/leiding",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -756,9 +841,12 @@
     "codes": [
       "LocatieActiviteit"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/locatieactiviteit",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/locatieactiviteit",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/locatieevactiviteit"
@@ -774,9 +862,12 @@
     "codes": [
       "LocatieBasisnet"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/locatiebasisnet",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/locatiebasisnet",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/locatieevactiviteit"
@@ -795,9 +886,12 @@
     "codes": [
       "LocatieEVActiviteit"
     ],
+    "bronnen": [
+      "https://zoek.officielebekendmakingen.nl/stcrt-2019-56288.html"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/locatieevactiviteit",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/locatieevactiviteit",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/buisleidingstelsel",
@@ -810,15 +904,18 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/mestbehandelingsinstallatie",
     "@type": "skos:Concept",
-    "naam": "Xmestbehandelingsinstallatie",
-    "term": "Xmestbehandelingsinstallatie",
+    "naam": "mestbehandelingsinstallatie",
+    "term": "mestbehandelingsinstallatie",
     "definitie": "Het vergisten van dierlijke meststoffen in combinatie met afvalstoffen, bedoeld in artikel 3.226, eerste lid, onder b, van het Besluit activiteiten leefomgeving of het vergisten van plantaardig materiaal, bedoeld in artikel 3.226, eerste lid, onder c, van dat besluit.",
     "codes": [
       "MestbehandelingsInstallatie_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/mestbehandelingsinstallatie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/mestbehandelingsinstallatie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -834,9 +931,12 @@
     "codes": [
       "Mestvergisting"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/mestvergisting",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/mestvergisting",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -855,9 +955,12 @@
     "codes": [
       "MijnbouwwerkExploiteren"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/mijnbouwwerkexploiteren",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/mijnbouwwerkexploiteren",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -876,9 +979,12 @@
     "codes": [
       "MijnbouwwerkVerplaatsbaar"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/mijnbouwwerkverplaatsbaar",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/mijnbouwwerkverplaatsbaar",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -899,8 +1005,8 @@
       "MilitairExplosieAandachtsgebied"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/militairexplosieaandachtsgebied",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/militairexplosieaandachtsgebied",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aandachtsgebied"
@@ -919,9 +1025,12 @@
     "codes": [
       "OpslagBrandbareVloeistofGeenDieselBovengronds"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagbrandbarevloeistofgeendieselbovengronds",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagbrandbarevloeistofgeendieselbovengronds",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -940,9 +1049,12 @@
     "codes": [
       "OpslagBrandbareVloeistofGeenDieselOndergronds"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagbrandbarevloeistofgeendieselondergronds",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagbrandbarevloeistofgeendieselondergronds",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -961,9 +1073,12 @@
     "codes": [
       "OpslagBrandstofBunkerstation"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagbrandstofbunkerstation",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagbrandstofbunkerstation",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -973,18 +1088,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xmeldingplichtige opslag van energiedragers te berekenen afstand",
-    "term": "Xmeldingplichtige opslag van energiedragers te berekenen afstand",
-    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 4.1003l van het Besluit activiteiten leefomgeving, waarbij toepassing wordt gegeven aan artikel 4.1003p, derde lid.",
+    "naam": "meldingplichtige opslag van energiedragers te berekenen afstand",
+    "term": "meldingplichtige opslag van energiedragers te berekenen afstand",
+    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 4.1052i van het Besluit activiteiten leefomgeving, als de activiteit niet als vergunningplichtig is aangewezen in artikel 3.35e van dat besluit voor zover toepassing wordt gegeven aan artikel 4.1052m derde lid.",
     "toelichtingen": [
       "Het meldingplichtig opslaan van energiedragers met te berekenen afstand, conform bijlage VII onder D onder 4."
     ],
     "codes": [
       "OpslagEnergiedragersElektrischeEnergie_TeBerekenenAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -994,18 +1112,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xvergunningplichtige opslag energiedragers te berekenen afstand",
-    "term": "Xvergunningplichtige opslag energiedragers te berekenen afstand",
-    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 3.26g van het Besluit activiteiten leefomgeving.",
+    "naam": "vergunningplichtige opslag energiedragers te berekenen afstand",
+    "term": "vergunningplichtige opslag energiedragers te berekenen afstand",
+    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 3.35e van het Besluit activiteiten leefomgeving.",
     "toelichtingen": [
       "Het vergunningplichtig opslaan van energiedragers met een te berekenen afstand, conform bijlage VII onder E onder 15."
     ],
     "codes": [
       "OpslagEnergiedragersElektrischeEnergie_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagenergiedragerselektrischeenergie_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1015,18 +1136,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagenergiedragerselektrischeenergie_vasteafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xmeldingplichtige opslag energiedragers vaste afstand",
-    "term": "Xmeldingplichtige opslag energiedragers vaste afstand",
-    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 4.1003l van het Besluit activiteiten leefomgeving..",
+    "naam": "meldingplichtige opslag energiedragers vaste afstand",
+    "term": "meldingplichtige opslag energiedragers vaste afstand",
+    "definitie": "Het opslaan en opladen van energiedragers voor elektrische energie, bedoeld in artikel 4.1052i van het Besluit activiteiten leefomgeving, als de activiteit niet als vergunningplichtig is aangewezen in artikel 3.35d van dat besluit.",
     "toelichtingen": [
       "Het meldingplichtig opslaan van energiedragers met een vaste afstand, conform bijlage VII onder A onder 14."
     ],
     "codes": [
       "OpslagEnergiedragersElektrischeEnergie_VasteAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagenergiedragerselektrischeenergie_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagenergiedragerselektrischeenergie_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1045,9 +1169,12 @@
     "codes": [
       "OpslagMeststof"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagmeststof",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagmeststof",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1066,9 +1193,12 @@
     "codes": [
       "OpslagOntplofbaarADR1.1Civiel"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageIX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaaradr1_1civiel",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaaradr1_1civiel",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1087,9 +1217,12 @@
     "codes": [
       "OpslagOntplofbaarADR1.3Civiel"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageIX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaaradr1_3civiel",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaaradr1_3civiel",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1108,9 +1241,12 @@
     "codes": [
       "OpslagOntplofbaarADR1.4Civiel"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageIX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaaradr1_4civiel",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaaradr1_4civiel",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1129,9 +1265,12 @@
     "codes": [
       "OpslagOntplofbaarComplexen"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageIX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaarcomplexen",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaarcomplexen",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1150,9 +1289,12 @@
     "codes": [
       "OpslagOntplofbaarMilitair_TeBerekenenAfstand"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaarmilitair_teberekenenafstand",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaarmilitair_teberekenenafstand",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1171,9 +1313,12 @@
     "codes": [
       "OpslagOntplofbaarMilitair_VasteAfstand"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageX"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagontplofbaarmilitair_vasteafstand",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagontplofbaarmilitair_vasteafstand",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1192,9 +1337,12 @@
     "codes": [
       "OpslagOxiderendVerstikkendGas"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagoxiderendverstikkendgas",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagoxiderendverstikkendgas",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1210,12 +1358,39 @@
     "codes": [
       "OpslagReferentie"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagreferentie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagreferentie",
+      "startdatumGeldigheid": "2026-10-20"
     },
+    "isBrederDan": [
+      "http://definities.geostandaarden.nl/imev/id/begrip/opslagreferentieenergiedrager"
+    ],
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
+    ],
+    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
+  },
+  {
+    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagreferentieenergiedrager",
+    "@type": "skos:Concept",
+    "naam": "opslagreferentie energiedrager",
+    "term": "opslagreferentie energiedrager",
+    "definitie": "Referentiegegevens van een opslag van energiedragers voor het vaststellen van EVcontouren.",
+    "codes": [
+      "OpslagReferentieEnergiedrager"
+    ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
+    "metadata": {
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagreferentieenergiedrager",
+      "startdatumGeldigheid": "2026-10-20"
+    },
+    "isEngerDan": [
+      "http://definities.geostandaarden.nl/imev/id/begrip/opslagreferentie"
     ],
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -1231,9 +1406,12 @@
     "codes": [
       "OpslagSevesoHoeveelheidBuitenSevesoInrichting"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagsevesohoeveelheidbuitensevesoinrichting",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagsevesohoeveelheidbuitensevesoinrichting",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1252,9 +1430,12 @@
     "codes": [
       "OpslagtankGas_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagtankgas_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagtankgas_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1273,9 +1454,12 @@
     "codes": [
       "OpslagtankPropaanPropeen_VasteAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagtankpropaanpropeen_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagtankpropaanpropeen_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1294,9 +1478,12 @@
     "codes": [
       "OpslagtankPropaanPropeen_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagtankpropaanpropeen_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagtankpropaanpropeen_vasteafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1315,30 +1502,12 @@
     "codes": [
       "OpslagtankVloeistof"
     ],
-    "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagtankvloeistof",
-      "startdatumGeldigheid": "2026-10-13"
-    },
-    "isEngerDan": [
-      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
-    ],
-    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
-  },
-  {
-    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagtransportbedrijfwaterstof_vasteafstandvergunningplicht",
-    "@type": "skos:Concept",
-    "naam": "Xtanken van voertuig met waterstof",
-    "term": "Xtanken van voertuig met waterstof",
-    "definitie": "Waterstof: opslag- en transportbedrijf, groothandel en containeroverslag.",
-    "toelichtingen": [
-      "Waterstof: opslag- en transportbedrijf, groothandel en containeroverslag."
-    ],
-    "codes": [
-      "OpslagTransportBedrijfWaterstof_VasteAfstandVergunningplicht"
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagtransportbedrijfwaterstof_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagtankvloeistof",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1357,9 +1526,12 @@
     "codes": [
       "OpslagVerpakt_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagverpakt_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagverpakt_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1378,9 +1550,12 @@
     "codes": [
       "OpslagVerpakt_VasteAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagverpakt_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagverpakt_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1399,9 +1574,12 @@
     "codes": [
       "OpslagVerpakt_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagverpakt_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagverpakt_vasteafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1411,8 +1589,8 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagverpaktzonder_f_cl_br_n_s_vasteafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "XVergunningplichtige opslag van verpakte gevaarlijke stoffen met een vaste afstand",
-    "term": "XVergunningplichtige opslag van verpakte gevaarlijke stoffen met een vaste afstand",
+    "naam": "vergunningplichtige opslag van verpakte gevaarlijke stoffen zonder F, Cl, Br, N, S met een vaste afstand",
+    "term": "vergunningplichtige opslag van verpakte gevaarlijke stoffen zonder F, Cl, Br, N, S met een vaste afstand",
     "definitie": "Het in een opslagplaats opslaan van 10.000 kg of meer in totaal van de gevaarlijke stoffen, bedoeld in artikel 3.27, eerste lid, van het Besluit activiteiten leefomgeving, bedoeld in artikel 3.28, aanhef en onder h, van dat besluit, voor zover het opslaan uitsluitend betrekking heeft op brandbare gevaarlijke stoffen zonder fluor-, chloor-, broom-, stikstof- of zwavelhoudende verbindingen.",
     "toelichtingen": [
       "Het vergunningplichtig opslaan van verpakte gevaarlijke stoffen waarvoor een vaste afstand geldt, conform Bkl bijlage VII onder B onder 3.1."
@@ -1420,9 +1598,12 @@
     "codes": [
       "OpslagVerpaktZonder_F_Cl_Br_N_S_VasteAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagverpaktzonder_f_cl_br_n_s_vasteafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagverpaktzonder_f_cl_br_n_s_vasteafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1441,9 +1622,12 @@
     "codes": [
       "OpslagVuurwerkF1F2F3T1T2"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVIII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagvuurwerkf1f2f3t1t2",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagvuurwerkf1f2f3t1t2",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1453,8 +1637,8 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opslagvuurwerkf1f2f3t1t2_geenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xopslag van vuurwerkcategorie F1F2F3T1T2 zonder vergunningplicht",
-    "term": "Xopslag van vuurwerkcategorie F1F2F3T1T2 zonder vergunningplicht",
+    "naam": "opslag van vuurwerkcategorie F1F2F3T1T2 zonder vergunningplicht",
+    "term": "opslag van vuurwerkcategorie F1F2F3T1T2 zonder vergunningplicht",
     "definitie": "Opslaan van van vuurwerk van categorie F1, F2, F3, of pyrotechnische artikelen voor theatergebruik van categorie T1 of T2 in een hoeveelheid van ten hoogste 10.000 kg en zonder vergunningplicht.",
     "toelichtingen": [
       "Het opslaan van vuurwerk, conform artikel 3.30 Bal."
@@ -1462,9 +1646,12 @@
     "codes": [
       "OpslagVuurwerkF1F2F3T1T2_GeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#Hoofdstuk5_Afdeling5.1_Paragraaf5.1.2_Sub-paragraaf5.1.2.4_Artikel5.20"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagvuurwerkf1f2f3t1t2_geenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagvuurwerkf1f2f3t1t2_geenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1483,9 +1670,12 @@
     "codes": [
       "OpslagVuurwerkF4"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opslagvuurwerkf4",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opslagvuurwerkf4",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1504,9 +1694,12 @@
     "codes": [
       "OpstellenVoertuigen"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opstellenvoertuigen",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opstellenvoertuigen",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1516,8 +1709,8 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/opstellenvoertuigen_teberekenenafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xopstellen voertuigen met vergunningplicht",
-    "term": "Xopstellen voertuigen met vergunningplicht",
+    "naam": "opstellen voertuigen met vergunningplicht",
+    "term": "opstellen voertuigen met vergunningplicht",
     "definitie": "Het opstellen van voertuigen, opleggers of aanhangers met gevaarlijke stoffen. Het betreft hier de vergunningplichtige activiteit uit Bijlage VII-E.8a van het Bkl voor het opstellen van meer dan 3 voertuigen of voor het opstellen langer dan 24 uur.",
     "toelichtingen": [
       "Het opstellen van voertuigen met gevaarlijke stoffen als lading, conform Bkl bijlage VII onder E onder 8a."
@@ -1525,9 +1718,12 @@
     "codes": [
       "OpstellenVoertuigen_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opstellenvoertuigen_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opstellenvoertuigen_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1547,8 +1743,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/opstelplaatsvoertuig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/opstelplaatsvoertuig",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -1565,8 +1761,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/overigecontour",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/overigecontour",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -1582,9 +1778,12 @@
     "codes": [
       "PRContour"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/prcontour",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/prcontour",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/evcontour"
@@ -1607,8 +1806,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/referentieevcontour",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/referentieevcontour",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isBrederDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/aftappuntopslagtank",
@@ -1641,9 +1840,12 @@
     "codes": [
       "SamengesteldeReferentie"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/samengesteldereferentie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/samengesteldereferentie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -1662,9 +1864,12 @@
     "codes": [
       "SevesoInrichting"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041330#Hoofdstuk3_Afdeling3.2_Paragraaf3.2.4_Artikel3.51"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/sevesoinrichting",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/sevesoinrichting",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1680,9 +1885,12 @@
     "codes": [
       "SevesoReferentie"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/sevesoreferentie",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/sevesoreferentie",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -1701,12 +1909,39 @@
     "codes": [
       "SpoorVervoer"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/spoorvervoer",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/spoorvervoer",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
+    ],
+    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
+  },
+  {
+    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tanken%25C2%25ADvoertuigen%25C2%25ADwerktuigen%25C2%25ADwaterstof_vaste%25C2%25ADafstand%25C2%25ADvergunningplicht",
+    "@type": "skos:Concept",
+    "naam": "het tanken van voertuigen of werktuigen met waterstof",
+    "term": "het tanken van voertuigen of werktuigen met waterstof",
+    "definitie": "Het tanken van voertuigen of werktuigen met waterstof.",
+    "toelichtingen": [
+      "Het tanken of het bieden van gelegenheid voor het tanken van voertuigen of werktuigen met waterstof, conform Bkl bijlage VII onder B onder 5."
+    ],
+    "codes": [
+      "Tanken­Voertuigen­Werktuigen­Waterstof_Vaste­Afstand­Vergunningplicht"
+    ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
+    "metadata": {
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tanken%25C2%25ADvoertuigen%25C2%25ADwerktuigen%25C2%25ADwaterstof_vaste%25C2%25ADafstand%25C2%25ADvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
+    },
+    "isEngerDan": [
+      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
     ],
     "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
   },
@@ -1722,9 +1957,12 @@
     "codes": [
       "TankenCNG"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankencng",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankencng",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1743,9 +1981,12 @@
     "codes": [
       "TankenGrootschaligVaartuig"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankengrootschaligvaartuig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankengrootschaligvaartuig",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1764,9 +2005,12 @@
     "codes": [
       "TankenKleinschaligVaartuig"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenkleinschaligvaartuig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankenkleinschaligvaartuig",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1776,8 +2020,8 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenlngvaartuigen_berekendeafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xtanken van vaartuig met LNG",
-    "term": "Xtanken van vaartuig met LNG",
+    "naam": "tanken van vaartuig met LNG",
+    "term": "tanken van vaartuig met LNG",
     "definitie": "Het tanken van vaartuigen of drijvende werktuigen met LNG, bedoeld in artikel 3.273, onder c, van het Besluit activiteiten leefomgeving.",
     "toelichtingen": [
       "Het tanken van vaartuigen of drijvende werktuigen met LNG, bedoeld in artikel 3.273, onder c, van het Besluit activiteiten leefomgeving."
@@ -1785,30 +2029,12 @@
     "codes": [
       "TankenLNGVaartuigen_berekendeAfstandVergunningplicht"
     ],
-    "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenlngvaartuigen_berekendeafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
-    },
-    "isEngerDan": [
-      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
-    ],
-    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
-  },
-  {
-    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenlngvoertuigwerktuig",
-    "@type": "skos:Concept",
-    "naam": "Ytanken van voertuig met LNG",
-    "term": "Ytanken van voertuig met LNG",
-    "definitie": "Het tanken of bieden van gelegenheid tot het tanken van voertuigen of werktuigen met LNG.",
-    "toelichtingen": [
-      "Het tanken of bieden van gelegenheid tot het tanken van voertuigen met LNG, conform Bkl bijlage VII onder E onder 10."
-    ],
-    "codes": [
-      "TankenLNGVoertuigWerktuig"
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenlngvoertuigwerktuig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankenlngvaartuigen_berekendeafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1831,8 +2057,32 @@
       "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenlpg",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankenlpg",
+      "startdatumGeldigheid": "2026-10-20"
+    },
+    "isEngerDan": [
+      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
+    ],
+    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
+  },
+  {
+    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenstationwaterstofvoertuigen_vasteafstandvergunningplicht",
+    "@type": "skos:Concept",
+    "naam": "het tanken van voertuigen of werktuigen met waterstof",
+    "term": "het tanken van voertuigen of werktuigen met waterstof",
+    "definitie": "Het tanken van voertuigen of werktuigen met waterstof.\n",
+    "toelichtingen": [
+      "Het tanken of het bieden van gelegenheid voor het tanken bij een tankstation, van voertuigen of werktuigen met waterstof, conform Bkl bijlage VII onder B onder 5."
+    ],
+    "codes": [
+      "TankstationWaterstofVoertuigen_VasteAfstandVergunningplicht"
+    ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
+    "metadata": {
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankenstationwaterstofvoertuigen_vasteafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1842,8 +2092,8 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenvoertuigenenwerktuigenlng_teberekenenafstandvergunningsplicht",
     "@type": "skos:Concept",
-    "naam": "XHet tanken van voertuigen of werktuigen met LNG",
-    "term": "XHet tanken van voertuigen of werktuigen met LNG",
+    "naam": "Het tanken van voertuigen of werktuigen met LNG",
+    "term": "Het tanken van voertuigen of werktuigen met LNG",
     "definitie": "Het tanken van voertuigen of werktuigen met LNG.",
     "toelichtingen": [
       "Het tanken van voertuigen of werktuigen met LNG, conform artikel 3.286 lid 1 onder e."
@@ -1851,51 +2101,12 @@
     "codes": [
       "TankenVoertuigenEnWerktuigenLNG_TeberekenenAfstandVergunningsplicht"
     ],
-    "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenvoertuigenenwerktuigenlng_teberekenenafstandvergunningsplicht",
-      "startdatumGeldigheid": "2026-10-13"
-    },
-    "isEngerDan": [
-      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
-    ],
-    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
-  },
-  {
-    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenwaterstofvoertuigen_vasteafstandvergunningplicht",
-    "@type": "skos:Concept",
-    "naam": "XXtanken van voertuig met waterstof",
-    "term": "XXtanken van voertuig met waterstof",
-    "definitie": "Waterstof: Tanken t.b.v. voertuigen en werktuigen.\n",
-    "toelichtingen": [
-      "Het tanken of het bieden van gelegenheid voor het tanken van voertuigen of werktuigen met waterstof, conform Bkl bijlage VII onder B onder 5."
-    ],
-    "codes": [
-      "TankenWaterstofVoertuigen_VasteAfstandVergunningplicht"
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenwaterstofvoertuigen_vasteafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
-    },
-    "isEngerDan": [
-      "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
-    ],
-    "domein": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV"
-  },
-  {
-    "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankenwaterstofvoertuigwerktuig",
-    "@type": "skos:Concept",
-    "naam": "tanken van voertuig met waterstof",
-    "term": "tanken van voertuig met waterstof",
-    "definitie": "Waterstof: opslag- en transportbedrijf, groothandel en containeroverslag en tankstation.",
-    "toelichtingen": [
-      "Het tanken of het bieden van gelegenheid voor het tanken van voertuigen of werktuigen met waterstof, conform Bkl bijlage VII onder B onder 5."
-    ],
-    "codes": [
-      "TankenWaterstofVoertuigWerktuig"
-    ],
-    "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankenwaterstofvoertuigwerktuig",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankenvoertuigenenwerktuigenlng_teberekenenafstandvergunningsplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1905,18 +2116,21 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/tankstationlngvoertuigen_teberekenenafstandvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "Xtanken van voertuig met LNG",
-    "term": "Xtanken van voertuig met LNG",
+    "naam": "het tanken van voertuigen of werktuigen met LNG",
+    "term": "het tanken van voertuigen of werktuigen met LNG",
     "definitie": "Het tanken of bieden van gelegenheid tot het tanken van voertuigen of werktuigen met LNG.",
     "toelichtingen": [
-      "Het tanken of bieden van gelegenheid tot het tanken van voertuigen met LNG, conform Bkl bijlage VII onder E onder 10."
+      "Het tanken of bieden van gelegenheid tot het tanken bij een tankstation, van voertuigen met LNG, conform Bkl bijlage VII onder E onder 10."
     ],
     "codes": [
       "TankstationLNGVoertuigen_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankstationlngvoertuigen_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankstationlngvoertuigen_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -1932,9 +2146,12 @@
     "codes": [
       "Tankzuil"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/tankzuil",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/tankzuil",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -1950,9 +2167,12 @@
     "codes": [
       "Vulpunt"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/vulpunt",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/vulpunt",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -1971,9 +2191,12 @@
     "codes": [
       "WaterVervoer"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/watervervoer",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/watervervoer",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -1989,9 +2212,12 @@
     "codes": [
       "Wegen"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/wegen",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/wegen",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/locatieevactiviteit"
@@ -2011,8 +2237,8 @@
       "https://docs.geostandaarden.nl/imev/imev/"
     ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/wegennietbasisnet",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/wegennietbasisnet",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/evactiviteit"
@@ -2031,9 +2257,12 @@
     "codes": [
       "WegVervoer"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/wegvervoer",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/wegvervoer",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -2049,9 +2278,12 @@
     "codes": [
       "Windturbine"
     ],
+    "bronnen": [
+      "https://docs.geostandaarden.nl/imev/imev/"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/windturbine",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/windturbine",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/referentieevcontour"
@@ -2061,15 +2293,18 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrip/windturbine_teberekenenafstandgeenvergunningplicht",
     "@type": "skos:Concept",
-    "naam": "windturbine en de te berekenen afstand zonder vergunningplicht",
-    "term": "windturbine en de te berekenen afstand zonder vergunningplicht",
+    "naam": "windturbine met te berekenen afstand zonder vergunningplicht",
+    "term": "windturbine met te berekenen afstand zonder vergunningplicht",
     "definitie": "Vergunningvrije windturbine, als bedoeld in bijlage VII, onderdeel D 1, van het Bkl.",
     "codes": [
       "Windturbine_TeBerekenenAfstandGeenVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/windturbine_teberekenenafstandgeenvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/windturbine_teberekenenafstandgeenvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
@@ -2085,9 +2320,12 @@
     "codes": [
       "Windturbine_TeBerekenenAfstandVergunningplicht"
     ],
+    "bronnen": [
+      "https://wetten.overheid.nl/BWBR0041313/#BijlageVII"
+    ],
     "metadata": {
-      "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrip/windturbine_teberekenenafstandvergunningplicht",
-      "startdatumGeldigheid": "2026-10-13"
+      "uri": "http://definities.geostandaarden.nl/imev/doc/20261020000000/begrip/windturbine_teberekenenafstandvergunningplicht",
+      "startdatumGeldigheid": "2026-10-20"
     },
     "isEngerDan": [
       "http://definities.geostandaarden.nl/imev/id/begrip/bklactiviteit"
