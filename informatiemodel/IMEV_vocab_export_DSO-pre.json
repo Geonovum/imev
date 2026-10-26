@@ -2,6 +2,7 @@
   {
     "uri": "http://definities.geostandaarden.nl/imev/id/begrippenkader/IMEV",
     "@type": "skos:ConceptScheme",
+	"naam": "Begrippenkader IMEV",
     "uitleg": "Het begrippenkader externe veiligheid bevat de begrippen die voortgekomen zijn uit het opstellen van het informatiemodel externe veiligheid (IMEV)",
     "metadata": {
       "uri": "http://definities.geostandaarden.nl/imev/doc/20261013000000/begrippenkader/IMEV",
