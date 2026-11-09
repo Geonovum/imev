@@ -109,7 +109,7 @@
                 ],
                 "idActiviteitTR": "nl.imow-mnre1034.activiteit.SevesoInrichting",
                 "grondslagInfo": {
-                    "grondslagType": "Woo_Art_5.1_2h_VoorkomingSabotage",
+                    "grondslagType": ["Woo_Art_5.1_2h_VoorkomingSabotage"],
                     "besluitnummer": "1234",
                     "besluitdocument": {
                         "link": "http://www.geonovum.nl",
